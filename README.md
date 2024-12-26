@@ -10,11 +10,9 @@
 </a>
 <br>
 
-- 🌱 Know more about me on my portfolio : [https://sunil2221.github.io/Portfolio/]
+- 🌱 Know more about me on my portfolio : https://sunil2221.github.io/Portfolio/
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications**
-
-- 🤝 Let's work together [@sunil](https://www.linkedin.com/in/sunil-appanna/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunil2221](https://github.com/sunil2221)
 
